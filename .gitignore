@@ -1,0 +1,10 @@
+# STM32CubeIDE build files
+/Debug/
+/Release/
+
+# Eclipse temporary files
+.metadata/
+
+# Operating system files
+.DS_Store
+Thumbs.dbS
